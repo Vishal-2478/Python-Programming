@@ -1,0 +1,17 @@
+1. What is the capital of India?
+a) Delhi
+b) Mumbai
+c) Kolkata
+d) Chennai
+
+2. Who invented Python?
+a) Dennis Ritchie
+b) Guido van Rossum
+c) James Gosling
+d) Elon Musk
+
+3. What is 5 + 3?
+a) 5
+b) 8
+c) 9
+d) 10
